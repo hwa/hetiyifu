@@ -1,0 +1,29 @@
+#hetiyifu-index {
+  color: #333; }
+  #hetiyifu-index .static-demo .header {
+    padding: 25px 0 25px;
+    box-shadow: 0 0 40px 0 #ff4401;
+    text-align: center;
+    color: white;
+    background-color: #ff4401;
+    font-size: 72px;
+    font-weight: bold; }
+  #hetiyifu-index .static-demo .footer {
+    text-align: center;
+    font-size: 32px; }
+  #hetiyifu-index .static-demo .recommend-size-zone {
+    margin: 16px 0 16px;
+    text-align: center; }
+    #hetiyifu-index .static-demo .recommend-size-zone .note {
+      font-size: 42px; }
+    #hetiyifu-index .static-demo .recommend-size-zone .recommend {
+      margin-top: 16px;
+      color: #ff4401; }
+      #hetiyifu-index .static-demo .recommend-size-zone .recommend .recommend-size {
+        font-size: 76px;
+        font-weight: bold; }
+      #hetiyifu-index .static-demo .recommend-size-zone .recommend .recommend-sentence {
+        margin-top: -20px;
+        font-size: 42px; }
+
+/*# sourceMappingURL=static-demo.css.map */
