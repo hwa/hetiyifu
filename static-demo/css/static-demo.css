@@ -17,13 +17,21 @@
     #hetiyifu-index .static-demo .recommend-size-zone .note {
       font-size: 42px; }
     #hetiyifu-index .static-demo .recommend-size-zone .recommend {
-      margin-top: 16px;
+      margin: 48px 0 48px;
       color: #ff4401; }
       #hetiyifu-index .static-demo .recommend-size-zone .recommend .recommend-size {
-        font-size: 76px;
+        font-size: 108px;
         font-weight: bold; }
       #hetiyifu-index .static-demo .recommend-size-zone .recommend .recommend-sentence {
-        margin-top: -20px;
+        margin-top: -10px;
         font-size: 42px; }
+  #hetiyifu-index .static-demo .note {
+    font-size: 42px;
+    color: #333;
+    background-color: #eee;
+    padding: 10px 0px 10px 42px; }
+  #hetiyifu-index .static-demo .local-graph {
+    margin: -10px 20px -60px 20px;
+    border-top: 4px solid #eee; }
 
 /*# sourceMappingURL=static-demo.css.map */
