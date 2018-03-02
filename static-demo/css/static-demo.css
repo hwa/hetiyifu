@@ -1,8 +1,8 @@
 #hetiyifu-index {
   color: #333; }
   #hetiyifu-index .static-demo .header {
-    padding: 25px 0 25px;
-    box-shadow: 0 0 40px 0 #ff4401;
+    padding: 12px 0 12px;
+    box-shadow: 0 0 64px 0px #ff4401;
     text-align: center;
     color: white;
     background-color: #ff4401;
@@ -28,10 +28,15 @@
   #hetiyifu-index .static-demo .note {
     font-size: 42px;
     color: #333;
-    background-color: #eee;
     padding: 10px 0px 10px 42px; }
+  #hetiyifu-index .static-demo .part-comments-note {
+    background-color: #eee;
+    border-bottom: 4px solid #eee; }
   #hetiyifu-index .static-demo .local-graph {
-    margin: -10px 20px -60px 20px;
-    border-top: 4px solid #eee; }
+    margin-bottom: -60px;
+    padding-left: 120px; }
+    #hetiyifu-index .static-demo .local-graph svg {
+      width: 800px;
+      height: 560px; }
 
 /*# sourceMappingURL=static-demo.css.map */
